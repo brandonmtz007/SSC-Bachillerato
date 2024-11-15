@@ -1,0 +1,24 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "calculadora PWA",
+    "short_name": "calculadora PWA",
+    "scope": "/",
+    "display": "standalone",
+    "start_url": "https://calculadora-ssc-pwa.000webhostapp.com/",
+    "background_color": "#000000",
+    "theme_color": "transparent",
+    "description": "",
+    "orientation": "any",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "./icono.png",
+            "sizes": "339x526",
+            "type": "image/png"
+        }
+        ],
+    "url": "https://calculadora-ssc-pwa.000webhostapp.com/",
+    "screenshots": []
+}
